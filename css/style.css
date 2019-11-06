@@ -1,0 +1,178 @@
+.header{
+	margin-top: 20px;
+	overflow: hidden;
+	color:radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%); 
+}
+.header h1{
+	float: left;
+	margin-left: 10px;
+	color:#42EA83; 
+}
+
+/****************Section-1 Area Start********************/
+.section_1{
+	background: #DCDCDC;
+	padding: 20px;
+}
+.section_1 td{
+	padding: 5px;
+}
+input.long{
+    color: #505050;
+    width: 450px;
+    padding: 10px;
+    border: 0.5px solid #0FFB30;
+    border-radius: 5px;
+}
+/****************Section-1 Area End********************/
+
+
+/****************Section-2 Area Start********************/
+.section_2{
+	margin-top: 20px;
+	background: #DCDCDC;
+	padding: 20px;
+	width: 50%;
+	float:left;
+	overflow: hidden;
+}
+.section_2 h2{
+	background: #807878;
+	padding: 10px;
+}
+.short{
+	width:350px;
+	padding: 10px;
+	border: 0.5px solid #0FFB30;
+	border-radius: 5px;
+}
+/****************Section-2 Area End********************/
+
+
+/****************Section-3 Area Start********************/
+.section_3{
+	margin-top: 20px;
+	background: #DCDCDC;
+	padding: 20px;
+	float:left;
+	overflow: hidden;
+}
+.section_3 h2{
+	background: #807878;
+	padding: 15px;
+}
+.small{
+	font-size:10px;
+	overflow: hidden;
+}
+/****************Section-3 Area End********************/
+
+
+
+/****************Section-4 Area Start********************/
+.section_4{
+	margin-top: 5px;
+	background: #DCDCDC;
+	width: 100%
+	padding: 20px;
+	padding-bottom: 20px;
+}
+.section_4 h6{
+	color: red;
+}
+
+/****************Section-4 Area End********************/
+
+/****************Academic Qualifications
+Area Start********************/
+.a_q{
+	background: #DCDCDC;
+	padding: 20px;
+	overflow: hidden;
+}
+/****************Academic Qualifications Area End*********/
+
+
+/****************Section-5 Area Start********************/
+.section_5{
+	float: left;
+	width: 50%;
+}
+/****************Section-5 Area End********************/
+
+
+
+/****************Section-6 Area Start********************/
+.section_6{
+	float: left;
+	width: 50%;
+}
+/****************Section-6 Area End********************/
+
+
+/****************Section-7 Area Start********************/
+.section_7{
+	float: left;
+	width: 50%;
+}
+
+/****************Section-7 Area End********************/
+
+
+/****************Section-8 Area Start********************/
+.section_8{
+	margin-top: 60px;
+	float: left;
+	width: 50%;
+}
+/****************Section-8 Area End********************/
+
+
+/****************Section-9 Area Start********************/
+.section_9{
+	background: #DCDCDC;
+	padding: 20px;
+	overflow: hidden;
+}
+.photo{
+	float: left;
+	width: 50%;
+}
+.signature{
+	float: left;
+	width: 50%;
+}
+/****************Section-9 Area End********************/
+
+
+/****************Section-10 Area Start********************/
+
+
+.section_10{
+	background: #fff;
+	margin-top: 20px;
+}
+/****************Section-10 Area End********************/
+
+
+
+/****************Section-11 Area Start********************/
+.section_11{
+	width: 100%;
+	text-align: center;
+	background: #282923;
+	padding: 20px;
+	color: #fff;
+	overflow: hidden;
+}
+.section_11 div{
+	padding: 10px;
+}
+.button{
+	background:blue;
+	color: #fff;
+	font-size: 20px; 
+	padding: 10px;
+
+}
+/****************Section-11 Area End********************/
